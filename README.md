@@ -39,6 +39,7 @@ We’re collecting interaction logs from the following coding assistants and CLI
 * OpenHands
 * Aider
 * Factory Droid CLI
+* charmbracelet/crush
 
 If you regularly use any of these — you’re exactly who we need!
 
