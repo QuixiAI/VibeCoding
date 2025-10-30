@@ -201,7 +201,3 @@ Dataset licensed under **CC BY-SA 4.0**.
 ---
 
 *Help us capture the rhythm of coding — one conversation at a time.*
-
----
-
-Would you like me to add a **`sanitize_logs.py`** example script next (with regex-based anonymization and safe field filtering)? That would make the setup fully reproducible for contributors.
