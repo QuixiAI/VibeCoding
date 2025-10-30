@@ -188,7 +188,7 @@ This project follows the principles of **open, ethical data collection**:
 * No identifying information
 * Only voluntary, informed contributions
 
-Dataset licensed under **CC BY-SA 4.0**.
+Dataset licensed under **Apache 2.0**.
 
 ---
 
